@@ -9,7 +9,8 @@ Capture :
 4. Country
 5. Phone * Next
 
-php wish.php
+root$ php check.php
+
      _______________________________________________________
     |                                                       |
     |                Multi eMail Checker v1                 |
@@ -17,9 +18,14 @@ php wish.php
     |      Author: Toolsb0x (https://toolsb0x.com/)         |
     |_______________________________________________________|
                 
+                Enter list: list.txt
+                Save to dir (default: valid): (somefoldername)
+                Request email per second (*max 10) ? 5
+                Delete list per check? (y/n): n/y
+ 
+ 
 
+You can visit the https://toolsb0x.com for get the api
+More information on
+https://www.youtube.com/channel/UCTZIVXU37iUuziCEsJIwEsw
 
- Enter list: wish.txt
- Save to dir (default: valid): wish
- Request email per second (*max 10) ? 5
- Delete list per check? (y/n): n
